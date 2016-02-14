@@ -1,4 +1,4 @@
-### masterの状態を最新にして、pull requestを出してマージされるまで
+**masterの状態を最新にして、pull requestを出してマージされるまでの流れ**
 
 ```
 git pull origin master
