@@ -1,0 +1,63 @@
+
+
+
+body {
+	background-color: #5D99FF;
+	margin: 0px;
+}
+
+header {
+	background-color: #4682B4;
+	height: 40px;
+}
+
+header div {
+	color: #5D99FF;
+	font-size: 22px;
+	font-family: fantasy;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 8px;
+}
+
+.wrapper {
+	background-color: #DDDDDD;
+	width: 260px;
+	height: 160px;
+	border-radius: 3px;
+	padding: 0px;
+	margin-top: 50px;
+	margin-left: 50px;
+	float: left;
+}
+
+.content {
+	text-align: center;
+	background-color: #EEEEEE;
+	height: 40px;
+	width: 240px;
+	border-radius: 2px;
+	border: thin solid #CCCCCC;
+	padding-top: 9px;
+	margin-top: 30px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.ui-draggable-dragging {
+	box-shadow:2px 2px #C0C0C0;
+	background-color: #C0C0C0;
+}
+
+.title {
+	font-family: Helvetica;
+	color: #333333;
+	margin: 4px 4px;
+	padding: 10px 0 0 10px;
+}
+
+
+
+
+
